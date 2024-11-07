@@ -85,6 +85,8 @@ const Copyright = styled.p`
   text-align: center;
 `;
 
+const year = new Date().getFullYear()
+
 const Footer = () => {
   return (
     <FooterContainer>
@@ -110,7 +112,7 @@ const Footer = () => {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Brightstar Kasyoka. All rights reserved.</Copyright>
+        <Copyright>&copy; {year} Brightstar Kasyoka. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

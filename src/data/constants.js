@@ -1,7 +1,9 @@
 export const Bio = {
   name: "Brightstar",
   roles: [
-    "CEO, Star Tailored Design",
+    "CEO, Star Tailored Designs",
+    "Founder, Brightstar Foundation",
+    "Content Creator",
   ],
   description:
     "Dedicated and visionary business owner with a proven track record of transforming startups into thriving enterprises. Possessing four years of hands-on experience in steering businesses from inception to remarkable growth. Adept at assembling and leading high-performing teams, implementing effective sales and marketing strategies, and fostering business development through strategic prospecting, relationship building, and operational excellence.",
@@ -84,5 +86,4 @@ export const experiences = [
     date: "11th November 2024",
     desc: "Finalist",
   },
-
 ];

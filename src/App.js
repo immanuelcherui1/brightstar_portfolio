@@ -6,7 +6,7 @@ import Hero from "./components/sections/Hero";
 import Engagements from "./components/sections/Engagements";
 import StarCanvas from "./components/canvas/Stars";
 import { AnimatePresence } from "framer-motion";
-import Experience from "./components/sections/Experience";
+import Honours from "./components/sections/Honours";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
 
@@ -45,7 +45,7 @@ function App() {
               <Hero />
               <Wrapper>
                 <Engagements />
-                <Experience />
+                <Honours />
               </Wrapper>
               <Wrapper>
                 <Contact />

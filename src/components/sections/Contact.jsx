@@ -149,7 +149,7 @@ const Contact = () => {
   };
 
   return (
-    <Container>
+    <Container id="Contact">
       <Wrapper>
         <EarthCanvas />
         <Title>Contact Me</Title>

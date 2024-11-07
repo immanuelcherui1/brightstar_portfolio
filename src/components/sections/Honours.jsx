@@ -50,9 +50,9 @@ const Desc = styled.div`
   }
 `;
 
-const Experience = () => {
+const Honours = () => {
   return (
-    <Container id="Experience">
+    <Container id="Honours">
       <Wrapper>
         <Title> Honours & Awards </Title>
         <Desc
@@ -76,4 +76,4 @@ const Experience = () => {
   );
 };
 
-export default Experience;
+export default Honours;

@@ -7,10 +7,10 @@ export const Bio = {
   ],
   description:
     "Dedicated and visionary business owner with a proven track record of transforming startups into thriving enterprises. Possessing four years of hands-on experience in steering businesses from inception to remarkable growth. Adept at assembling and leading high-performing teams, implementing effective sales and marketing strategies, and fostering business development through strategic prospecting, relationship building, and operational excellence.",
-  Tiktok: "https://tiktok.com",
+  tiktok: "https://www.tiktok.com/@brightstarkasyoka?is_from_webapp=1&sender_device=pc",
   linkedin: "https://www.linkedin.com/",
   twitter: "https://twitter.com/",
-  insta: "https://www.instagram.com/",
+  insta: "https://www.instagram.com/startailoreddesigns?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
   facebook: "https://www.facebook.com/",
 };
 
